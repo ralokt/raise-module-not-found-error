@@ -1,6 +1,6 @@
-# Raise Module Not Found
+# Raise Module Not Found Error
 
-Raise Module Not Found is a "library" that raises a `ModuleNotFoundError` when an
+Raise Module Not Found Error is a "library" that raises a `ModuleNotFoundError` when an
 attempt is made to import it.
 
 ## Example usage

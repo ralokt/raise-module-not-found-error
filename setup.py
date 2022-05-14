@@ -22,7 +22,7 @@ setup(
         "Programming Language :: Python :: 3",
         "Operating System :: OS Independent",
     ],
-    version="1.0.0",
+    version="1.0.1",
     keywords=[
         "useless",
     ],
